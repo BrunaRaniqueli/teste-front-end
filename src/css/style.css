@@ -1,0 +1,995 @@
+.body{
+    font-family: FoundryMonoline;
+}
+
+.header .fa{
+    color: rgba(128, 128, 128, 0.411);
+}
+.id_1{
+    margin-left: 124px;
+}
+.id_2{
+    position: absolute;
+    left: 953px;
+    overflow: visible;
+}
+.id_3{
+    position: absolute;
+    left: 1143px;
+    overflow: visible;
+}
+#next {
+    position: absolute;
+    width: 120px;
+    height: 15px;
+    left: 465px;
+    top: 792px;
+    overflow: visible;
+}
+.header a {
+    left: 22px;
+    top: 0.326px;
+    overflow: visible;
+    width: 155px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(112,112,112,1);
+}
+
+.logo{
+    margin-top: 20px;
+    position: relative;
+}
+#atendimento {
+    position: absolute;
+    width: 187px;
+    height: 53px;
+    left: 1060px;
+    top: 42px;
+    overflow: visible;
+}
+#contato {
+    position: absolute;
+    width: 187px;
+    height: 53px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#ID31_3123-1234 {
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 175px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 26px;
+    color: rgba(223,2,9,1);
+}
+#CENTRAL_DE_ATENDIMENTO {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 188px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-MedIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(114,123,122,1);
+    letter-spacing: -0.44px;
+}
+
+.banner_1{
+    margin-top: 20px;
+}
+
+.titulo_1 {
+    left: 95px;
+    top: 546px;
+    position: absolute;
+    overflow: visible;
+    width: 730px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 34px;
+    color: rgba(0,0,0,1);
+}
+
+#retangulo_contorno_1 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(213,213,213,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.retangulo_contorno_1 {
+    position: absolute;
+    overflow: visible;
+    width: 170px;
+    height: 102px;
+    left: 95px;
+    top: 622px;
+}
+#Retngulo_16 {
+    position: absolute;
+    width: 164.963px;
+    height: 95.712px;
+    left: 97.519px;
+    top: 625px;
+    overflow: visible;
+}
+#retangulo_contorno_2 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(213,213,213,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.retangulo_contorno_2 {
+    position: absolute;
+    overflow: visible;
+    width: 170px;
+    height: 102px;
+    left: 95px;
+    top: 729px;
+}
+#Retngulo_19 {
+    position: absolute;
+    width: 164.963px;
+    height: 95.712px;
+    left: 97.519px;
+    top: 732px;
+    overflow: visible;
+}
+#retangulo_contorno_3 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(213,213,213,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.retangulo_contorno_3 {
+    position: absolute;
+    overflow: visible;
+    width: 170px;
+    height: 102px;
+    left: 95px;
+    top: 836px;
+}
+#Retngulo_21 {
+    position: absolute;
+    width: 164.963px;
+    height: 95.712px;
+    left: 97.519px;
+    top: 839px;
+    overflow: visible;
+}
+#juntosi {
+    position: absolute;
+    width: 679.5px;
+    height: 212px;
+    left: 305px;
+    top: 688px;
+    overflow: visible;
+}
+
+.paragrafo_1 {
+    left: 95px;
+    top: 973px;
+    position: absolute;
+    overflow: hidden;
+    width: 871px;
+    height: 63px;
+    text-align: left;
+    font-family: FoundryMonoline-Regular ☞;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+}
+
+.banner_2{
+    position: absolute; 
+    margin-top: 580px;
+    overflow: visible;
+}
+
+#Retngulo_11 {
+    position: absolute;
+    overflow: visible;
+    background-image: linear-gradient(to bottom right, #f8f9fa00, black);
+}
+
+.titulo_2 {
+    left: 95px;
+    margin-top: 883px;
+    overflow: visible;
+    width: 666px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 34px;
+    color: #f8f9fa;
+}
+.paragrafo_2 {
+    left: 95px;
+    margin-top: 936px;
+    overflow: visible;
+    width: 685px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-Regular ☞;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+.figura_1 img {  /* seleciona todas as img dentro de figure com a classe foto-legenda */
+    border: 4px solid rgba(213,213,213,1);
+}
+
+.figura_2 img {  /* seleciona todas as img dentro de figure com a classe foto-legenda */
+    border: 4px solid rgba(213,213,213,1);
+}
+
+.figura_3 img {  /* seleciona todas as img dentro de figure com a classe foto-legenda */
+    border: 4px solid rgba(213,213,213,1);
+}
+.vitrine{
+    margin-top: 600px;
+}
+#ID08-VIDROS_ELETRICOS {
+    position: absolute;
+    width: 260px;
+    height: 180px;
+    left: 400px;
+    top: 450px;
+    overflow: visible;
+}
+#ID01-CAMBIO_AUTOMATICO {
+    position: absolute;
+    width: 260px;
+    height: 180px;
+    left: 700px;
+    top: 450px;
+    overflow: visible;
+}
+#ID07-DIRECAO_ELETRICA {
+    position: absolute;
+    width: 260px;
+    height: 180px;
+    left: 100px;
+    top: 450.001px;
+    overflow: visible;
+}
+
+
+#Retngulo_17 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(213,213,213,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Retngulo_17 {
+    position: absolute;
+    overflow: visible;
+    width: 170px;
+    height: 102px;
+    left: 95px;
+    top: 622px;
+}
+#Retngulo_16 {
+    position: absolute;
+    width: 164.963px;
+    height: 95.712px;
+    left: 97.519px;
+    top: 625px;
+    overflow: visible;
+}
+#Retngulo_18 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(213,213,213,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Retngulo_18 {
+    position: absolute;
+    overflow: visible;
+    width: 170px;
+    height: 102px;
+    left: 95px;
+    top: 729px;
+}
+#Retngulo_19 {
+    position: absolute;
+    width: 164.963px;
+    height: 95.712px;
+    left: 97.519px;
+    top: 732px;
+    overflow: visible;
+}
+#Retngulo_20 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(213,213,213,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Retngulo_20 {
+    position: absolute;
+    overflow: visible;
+    width: 170px;
+    height: 102px;
+    left: 95px;
+    top: 836px;
+}
+#Retngulo_21 {
+    position: absolute;
+    width: 164.963px;
+    height: 95.712px;
+    left: 97.519px;
+    top: 839px;
+    overflow: visible;
+}
+#A_EMOO_DE_DIRIGIR_LEVA_VOC_MAI {
+    left: 95px;
+    top: 546px;
+    position: absolute;
+    overflow: visible;
+    width: 730px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 34px;
+    color: rgba(0,0,0,1);
+}
+#O_novo_Civic_Gerao_10_traz_um_ {
+    left: 95px;
+    top: 973px;
+    position: absolute;
+    overflow: hidden;
+    width: 871px;
+    height: 63px;
+    text-align: left;
+    font-family: FoundryMonoline-Regular ☞;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+}
+#juntosi {
+    position: absolute;
+    width: 679.5px;
+    height: 212px;
+    left: 305px;
+    top: 688px;
+    overflow: visible;
+}
+#acessorios {
+    position: absolute;
+    width: 1366px;
+    height: 807px;
+    left: 0px;
+    top: 1089px;
+    overflow: visible;
+}
+
+#ID08-VIDROS_ELETRICOS {
+    position: absolute;
+    width: 260px;
+    height: 180px;
+    left: 400px;
+    top: 450px;
+    overflow: visible;
+}
+
+#ID01-CAMBIO_AUTOMATICO {
+    position: absolute;
+    width: 260px;
+    height: 180px;
+    left: 700px;
+    top: 450px;
+    overflow: visible;
+}
+
+#ID07-DIRECAO_ELETRICA {
+    position: absolute;
+    width: 260px;
+    height: 180px;
+    left: 100px;
+    top: 450.001px;
+    overflow: visible;
+}
+
+#Retngulo_12_ {
+    fill: url(#Retngulo_12_);
+}
+.Retngulo_12_ {
+    width: 1366px;
+    height: 245px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, -665px) matrix(1,0,0,1,0,835) rotate(180deg);
+    transform-origin: center;
+}
+#PREPARE-SE_PARA_ALGO_REALMENTE {
+    left: 95px;
+    top: 309px;
+    position: absolute;
+    overflow: visible;
+    width: 666px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 34px;
+    color: rgba(255,255,255,1);
+}
+#O_Novo_Civic_Gerao_10_vem_comp {
+    left: 95px;
+    top: 362px;
+    position: absolute;
+    overflow: visible;
+    width: 685px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-Regular ☞;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Direo_com_Assistncia_ {
+    left: 95px;
+    top: 642px;
+    position: absolute;
+    overflow: visible;
+    width: 214px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Sistema_de_estabilidade_que_re {
+    left: 95px;
+    top: 678px;
+    position: absolute;
+    overflow: visible;
+    width: 260px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#Vidros_eltricos_com_subida_aut {
+    left: 395px;
+    top: 645px;
+    position: absolute;
+    width: 271px;
+    height: 48px;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Todas_as_portas_possuem_vidros {
+    left: 395px;
+    top: 702px;
+    position: absolute;
+    overflow: visible;
+    width: 242px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#Cmbio_CVT_com_Paddle_Shift_ {
+    left: 695px;
+    top: 642px;
+    position: absolute;
+    overflow: visible;
+    width: 266px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#O_cmbio_com_transmisso_CVT_de_ {
+    left: 695px;
+    top: 678px;
+    position: absolute;
+    overflow: visible;
+    width: 223px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+
+.circle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 15px;
+    height: 15px;
+    left: 0px;
+    top: 0px;
+    color: rgba(128,128,128,1);
+}
+
+.circle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 15px;
+    height: 15px;
+    left: 35px;
+    top: 0px;
+    color: rgba(213,213,213,1);
+}
+
+.circle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 15px;
+    height: 15px;
+    left: 70px;
+    top: 0px;
+    color: rgba(213,213,213,1);
+}
+
+.circle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 15px;
+    height: 15px;
+    left: 105px;
+    top: 0px;
+    color: rgba(213,213,213,1);
+}
+
+#PRONTO_PARA_TER_UM_HONDA {
+    left: 95px;
+    top: 1956px;
+    position: absolute;
+    overflow: visible;
+    width: 497px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 34px;
+    color: rgba(0,0,0,1);
+}
+#Conhea_os_ltimos_grandes_lanam {
+    left: 95px;
+    top: 2009px;
+    position: absolute;
+    overflow: visible;
+    width: 415px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-Regular ☞;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+}
+
+#accord {
+    width: 211px;
+    height: 179px;
+    left: 121px;
+    top: 2066px;
+    overflow: visible;
+}
+
+#city {
+    position: absolute;
+    width: 211px;
+    height: 179px;
+    left: 423px;
+    top: 2066px;
+    overflow: visible;
+}
+
+#fit_2018 {
+    position: absolute;
+    width: 211px;
+    height: 179px;
+    left: 725px;
+    top: 2066px;
+    overflow: visible;
+}
+
+.figura_4 {
+    position: absolute;
+    overflow: visible;
+    width: 270px;
+    height: 350px;
+    left: 95px;
+    top: 2062px;
+}
+
+
+#Novo_Honda_Accord_a_combinao_p {
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    height: 79px;
+    text-align: center;
+    margin-top: 13px;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+
+#hint_text {
+    margin-top: 115px;
+    margin-left: 60px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+
+#O_City_est_muito_mais_moderno_ {
+    left: 415px;
+    top: 2255px;
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    height: 79px;
+    text-align: center;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+
+#hint_text_b {
+    left: 480px;
+    top: 2362px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    line-height: 24px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+
+#Com_seu_design_inconfundvel_o_ {
+    left: 715px;
+    top: 2255px;
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    height: 79px;
+    text-align: center;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+
+#hint_text_ca {
+    left: 780px;
+    top: 2362px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    line-height: 24px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+
+#chamada {
+    position: absolute;
+    width: 270px;
+    height: 80px;
+    left: 395px;
+    top: 2491px;
+    overflow: visible;
+    border: 2px solid;
+    border-color:#ff00004d;
+    border-radius: 9px;
+}
+
+#Encontre_uma {
+    left: 44px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 86px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#CONCESSIONRIA {
+    left: 44px;
+    top: 14.215px;
+    position: absolute;
+    overflow: visible;
+    width: 181px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline ☞;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(223,2,9,1);
+}
+
+#chamada_2 {
+    position: absolute;
+    width: 270px;
+    height: 80px;
+    left: 695px;
+    top: 2491px;
+    overflow: visible;
+    border: 2px solid;
+    border-color:#ff00004d;
+    border-radius: 9px;
+}
+#chamada_2_ {
+    position: absolute;
+    width: 187px;
+    height: 53px;
+    left: 43px;
+    top: 13px;
+    overflow: visible;
+}
+#telefone {
+    position: absolute;
+    width: 187px;
+    height: 53px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#ID31_3123-1234_cp {
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 175px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 26px;
+    color: rgba(223,2,9,1);
+}
+#CENTRAL_DE_ATENDIMENTO_cq {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 188px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: FoundryMonoline-MedIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(114,123,122,1);
+    letter-spacing: -0.44px;
+}
+
+.map {
+    font-size: 3em;
+    margin-top: -15px;
+    color: rgb(128 128 128 / 44%);
+}
+
+#SIGA_A_BANZAI_NAS_REDES_SOCIAI {
+    left: 491px;
+    top: 2588px;
+    position: absolute;
+    overflow: visible;
+    width: 379px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: FoundryMonoline-ExBdIta ☞;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+}
+
+#social_midias {
+    position: absolute;
+    width: 159px;
+    height: 40px;
+    left: 601px;
+    top: 2640px;
+    overflow: visible;
+    font-size: 1.3em;
+    color: rgb(128 128 128 / 44%);
+}
+
+#footer {
+    position: absolute;
+    width: 273px;
+    height: 52px;
+    left: 672px;
+    top: 2716px;
+    overflow: visible;
+}
+#Todos_juntos_fazem_um_trnsito_ {
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 208px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(112,112,112,1);
+}
+#logo_ibama {
+    position: absolute;
+    width: 46px;
+    height: 52px;
+    left: 227px;
+    top: 0px;
+    overflow: visible;
+}
+
+#logo_c {
+    position: absolute; 
+    margin-top: 15px;
+    margin-left: -269px;
+}
+
+
+.js .anime {
+	opacity: 0;
+	transform: translate3D(-50px, 0px, 0px);
+}
+
+.js .anime-init {
+	opacity: 1;
+	transform: translate3D(0px, 0px, 0px);
+	transition: .3s all ease;
+}
+
+.box {
+	width: 260px;
+	height: 100px;
+	border-radius: 5px;
+	margin: 0 auto 20px auto;
+}
+
+.box p {
+	padding-top: 100px;
+	font-size: 24px;
+	color: white;
+	font-family: monaco;
+}
+
+
+section {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px 0;
+	text-align: center;
+}
+
+#mouse {
+    text-align: right; 
+    position: fixed;
+    margin-left: 980px;
+    bottom: 41px;
+}
+
+#mouse::before {
+	content: '';
+	display: inline-block;
+	width: 4px;
+	height: 8px;
+	position: relative;
+	border-radius: 4px;
+	background: #8844EE;
+	animation-name: mouse;
+  animation-duration: .7s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes mouse {
+	from {
+		top: 0px;
+	}
+  to {
+		top: 6px;
+	}
+}
+
+h1 {
+	font-size: 14px;
+	font-family: monaco;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	color: #8844EE;
+	margin-bottom: 40px;
+}
+
+footer {
+	text-align: center;
+	margin-bottom: 120px;
+}
+
